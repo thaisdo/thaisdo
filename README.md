@@ -18,4 +18,10 @@
   <img align="center" alt="Thai-vsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Thai-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+  
+  ##
+  
+  <div>
+    ![Snake animation](https://github.com/thaisdo/thaisdo/blob/output/github-contribution-grid.snake.svg)
+  </div>
 
