@@ -21,6 +21,6 @@
   
   ##
   
-  ![Snake animation](https://github.com/thaisdo/thaisdo/blob/output/github-contribution-grid.snake.svg)
+  ![Snake animation](https://github.com/thaisdo/thaisdo/blob/output/github-contribution-grid-snake.svg)
 
 
