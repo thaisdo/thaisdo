@@ -10,13 +10,15 @@
  - 🎡 I'm focusing my studies to become a Back-End developer
  - 🌱 Learning: Javascript / Node.js / Express.js / MongoDB
 
-## 
-<div>
+##
+
+<div align="center">
   <a href="https://github.com/thaisdo">
-  <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=thaisdo&theme=gotham&show_icons=true">
-  <img height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisdo&layout=compact&langs_count=168&theme=gotham">
+  <img  height ="150em" src="https://github-readme-stats.vercel.app/api?username=thaisdo&theme=gotham&show_icons=true">
+  <img  height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisdo&layout=compact&langs_count=168&theme=gotham">
 </div>
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Thai-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thai-Cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Thai-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,7 +34,10 @@
 </div>
   
   ##
+  <div align="center">
   
   ![Snake animation](https://github.com/thaisdo/thaisdo/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
 
 
