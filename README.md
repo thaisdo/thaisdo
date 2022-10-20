@@ -15,6 +15,7 @@
 <div align="center">
   <a href="https://github.com/thaisdo">
   <img  height ="150em" src="https://github-readme-stats.vercel.app/api?username=thaisdo&theme=gotham&show_icons=true">
+  <img>
   <img  height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisdo&layout=compact&langs_count=168&theme=gotham">
 </div>
 
