@@ -14,9 +14,9 @@
 
 <div align="center">
   <a href="https://github.com/thaisdo">
-  <img  height ="150em" src="https://github-readme-stats.vercel.app/api?username=thaisdo&theme=gotham&show_icons=true">
+  <img  height ="150em" src="https://github-readme-stats-5s81.vercel.app/api?username=thaisdo&theme=gotham&show_icons=true">
   <img>
-  <img  height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisdo&layout=compact&langs_count=168&theme=gotham">
+  <img  height ="150em" src="https://github-readme-stats-5s81.vercel.app/api/top-langs/?username=thaisdo&layout=compact&langs_count=168&theme=gotham">
 </div>
 
 <div style="display: inline_block" align="center"><br>
