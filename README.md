@@ -2,14 +2,12 @@
  - 👋 Oie, eu sou a Thainara Oliveira! Mas pode me chamar de Thai 
  - 👋 Hi there, my name is Thainara Oliveira! But you can call me Thai 
  - ⚠ Pronomes/Pronouns: (ela/dela)(she/her)<br>
- - ✔ Fato: Eu amo a tecnologia 💕
- - ✔ Fact: I love tecnology 💕
 ##
- - 🎡 Estou focando meus estudos para me tornar uma desenvolvedora Back-End
- - 🌱 Estudando: Javascript / Node.js / Express.js / MongoDB
- - 🎡 I'm focusing my studies to become a Back-End developer
- - 🌱 Learning: Javascript / Node.js / Express.js / MongoDB
-
+ -  💻 Atualmente usando/estudando: Python | Pyspark | ETL /ELT | MySQL | Oracle | Jupyterhub | SAS | Gitlab | Airflow
+ -  💻 Technologies and tools I use in the field of data science: Python | Pyspark | ETL /ELT | MySQL | Oracle | Jupyterhub | SAS | Gitlab | Airflow
+##
+ - 🌱 Estudando: Javascript / React.js / HTML / CSS / Firebase
+ - 🌱 Learning: Javascript / React.js / HTML / CSS / Firebase
 ##
 
 <div align="center">
