@@ -1,7 +1,5 @@
-<img align="left" height="50" width="60" src="https://media.tenor.com/93swnQDXHJUAAAAi/flag-rainbow.gif"><br><br><br>
  - 👋 Oie, eu sou a Thainara Oliveira! Mas pode me chamar de Thai 
- - 👋 Hi there, my name is Thainara Oliveira! But you can call me Thai 
- - ⚠ Pronomes/Pronouns: (ela/dela)(she/her)<br>
+ - 👋 Hi there, my name is Thainara Oliveira! But you can call me Thai
 ##
  -  💻 Atualmente usando/estudando: Python | Pyspark | ETL /ELT | MySQL | Oracle | Jupyterhub | SAS | Gitlab | Airflow
  -  💻 Technologies and tools I use in the field of data science: Python | Pyspark | ETL /ELT | MySQL | Oracle | Jupyterhub | SAS | Gitlab | Airflow
