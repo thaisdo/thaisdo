@@ -4,8 +4,8 @@
  -  💻 Atualmente trabalho com: Python | Pyspark | ETL/ELT | SQL | DBeaver | Airflow | MySQL | Oracle | JupyterLab | SQLServer | Github | GitLab | Airflow
  -  💻 Tools I use: Python | Pyspark | ETL/ELT | SQL | DBeaver | Airflow | MySQL | Oracle | JupyterLab | SQLServer | Github | GitLab | Airflow
 ##
- - 🌱 Estudando: AWS / Kafka / Apache Spark / CICD / CDC / Docker / Scala
- - 🌱 Learning: AWS / Kafka / Apache Spark / CICD / CDC / Docker / Scala
+ - 🌱 Estudando: AWS / Kafka / Apache Spark / CI/CD / CDC / Docker / Scala
+ - 🌱 Learning: AWS / Kafka / Apache Spark / CI/CD / CDC / Docker / Scala
 ##
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Thai-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thai-HTML5" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
+  <img align="center" alt="Thai-HTML5" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg">
 
   <img align="center" alt="Thai-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thai-Css3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
