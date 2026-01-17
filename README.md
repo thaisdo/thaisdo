@@ -1,6 +1,6 @@
 ## hello world!, I'm Thai, a brazilian **`data engineer`** 👋🏼:
 
-🎯 currently working as data engineer at ``Vert Analytics`` in Brasília, Brazil <br>
+🎯 currently working as data engineer at ``G4F`` in Brasília, Brazil <br>
 🎓 started my tech journey in 2021 and never looked back <br>
 📚 lifelong learner passionate about data and technology <br>
 🎮 gamer, music enthusiast, and chocolate ice cream lover 🍫   
